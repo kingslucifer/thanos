@@ -1,0 +1,5 @@
+thanos.egg-info/PKG-INFO
+thanos.egg-info/SOURCES.txt
+thanos.egg-info/dependency_links.txt
+thanos.egg-info/requires.txt
+thanos.egg-info/top_level.txt

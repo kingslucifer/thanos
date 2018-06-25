@@ -1,0 +1,4 @@
+MarkupSafe==0.15
+SQLAlchemy==1.2.8
+alembic==0.9.9
+psycopg2==2.7.4

@@ -1,0 +1,9 @@
+Metadata-Version: 1.2
+Name: thanos
+Version: 1.0
+Summary: thanos models and migration with Alembic
+Home-page: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.5
